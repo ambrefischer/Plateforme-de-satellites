@@ -1,0 +1,9 @@
+; On effectue les mesures de IMAGER1
+IMAGER1:ON
+IMAGER1:DATA
+IMAGER1:OFF
+
+; On effectue les mesures de IMAGER2
+IMAGER2:ON
+IMAGER2:DATA
+IMAGER2:OFF
